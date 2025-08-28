@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: The Sandbox
+#title: The Sandbox
 
 # Your name to show in the footer
 author: T. Hassan
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: "/assets/img/sandbox.png"
+title-img: "/assets/img/sandbox.png"
 
 
 #####################################
